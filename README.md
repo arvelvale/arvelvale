@@ -1,6 +1,6 @@
 ### Hi, I'm arvelvale
 
-CS student at San José State University (SJSU). I like AI coding, psychology, travel, and Chinese metaphysics -
+CS student at CQUST. I like AI coding, psychology, travel, and Chinese metaphysics -
 and I build local-first tools for people who run several AI coding agents at once.
 
 - Building **Orrery**, a local-first cockpit for AI coding agents
